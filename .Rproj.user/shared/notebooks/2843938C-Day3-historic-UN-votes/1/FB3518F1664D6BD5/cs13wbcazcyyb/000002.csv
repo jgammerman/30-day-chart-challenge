@@ -1,0 +1,13 @@
+"0","## Load the data"
+"0",""
+"0","tt <- tt_load(""2021-03-23"")"
+"1","
+"
+"1","	Downloading file 1 of 3: `unvotes.csv`
+"
+"1","	Downloading file 2 of 3: `roll_calls.csv`
+"
+"1","	Downloading file 3 of 3: `issues.csv`
+"
+"1","
+"
