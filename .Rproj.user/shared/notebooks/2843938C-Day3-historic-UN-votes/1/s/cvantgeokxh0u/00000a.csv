@@ -4,7 +4,7 @@
 "0","        ggplot(aes(x = decade, y = count)) +"
 "0","        geom_line(aes(color = issue))+"
 "0","        facet_wrap(~issue) +"
-"0","        labs(x = ""Decade"", y = ""Number of votes in decade"", title = ""Historic UN Votes By Topic"") +   "
+"0","        labs(x = ""Decade"", y = ""Number of votes in decade"", title = ""Frequency Of UN Vote Topics By Decade"") +   "
 "0","       # theme_bw() +"
 "0","        theme(legend.position = ""none"") "
 "2","`summarise()` has grouped output by 'issue'. You can override using the `.groups` argument.

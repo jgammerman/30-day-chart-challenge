@@ -51,7 +51,7 @@ issues_rollcalls %>%
         ggplot(aes(x = decade, y = count)) +
         geom_line(aes(color = issue))+
         facet_wrap(~issue) +
-        labs(x = "Decade", y = "Number of votes in decade", title = "Historic UN Votes By Topic") +   
+        labs(x = "Decade", y = "Number of votes in decade", title = "Frequency Of UN Vote Topics By Decade") +   
        # theme_bw() +
         theme(legend.position = "none") 
     
