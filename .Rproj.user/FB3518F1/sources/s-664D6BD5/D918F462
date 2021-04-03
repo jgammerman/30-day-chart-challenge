@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1617443094954.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D918F462",
+    "lastKnownWriteTime" : 1617443150,
+    "last_content_update" : 1617443150255,
+    "path" : "~/Desktop/Data_Science/DS_learning/30_day_chart_challenge/Day3-historic-UN-votes.Rmd",
+    "project_path" : "Day3-historic-UN-votes.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "19,1",
+        "last_setup_crc32" : "664D6BD5af3fa15",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

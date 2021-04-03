@@ -1,0 +1,8 @@
+"0","```r
+
+# This will save your most recent plot
+ggsave(
+  filename = \"Historic_UN_vote_issues.png\",
+  device = \"png\")
+
+```"

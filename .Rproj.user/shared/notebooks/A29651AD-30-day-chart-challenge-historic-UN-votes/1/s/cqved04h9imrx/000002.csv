@@ -1,0 +1,18 @@
+"0","```r
+## Load the data
+
+
+
+tt <- tt_load(\"2021-03-23\")
+```"
+"1","--- Compiling #TidyTuesday Information for 2021-03-23 ----
+--- There are 3 files available ---
+--- Starting Download ---
+"
+"1","
+	Downloading file 1 of 3: `unvotes.csv`
+	Downloading file 2 of 3: `roll_calls.csv`
+	Downloading file 3 of 3: `issues.csv`
+"
+"1","--- Download complete ---
+"

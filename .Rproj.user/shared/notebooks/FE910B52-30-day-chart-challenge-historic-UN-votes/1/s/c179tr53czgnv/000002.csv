@@ -1,0 +1,11 @@
+"0","```r
+issues_rollcalls <- tt$issues %>% 
+        select(rcid, issue) %>% 
+  inner_join(tt$roll_calls %>% 
+        select(rcid, date), by = \"rcid\") %>% 
+        mutate(year = lubridate::year(date),
+               decade = 10 * (year %/% 10)) %>% 
+        select(-year, -date)
+
+issues_rollcalls
+```"
